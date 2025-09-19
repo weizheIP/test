@@ -7,7 +7,6 @@ int main(int argc, char ** argv)
 
 	int i = 1;
 	int j = 2;
-	std::cout << "hello branch2!" << std::endl;
 	return 0;
 
 
